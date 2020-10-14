@@ -17,7 +17,8 @@ go test -bench=.
 ```
 
 ## Suggestions/Improvements
-Suggestions of what I should add to this repo or code improvements are all welcome. Please open an issue to discuss or reach out to me directly via email.
+I thrive to always be a better version of myself so if you see something that can be improved anywhere in the code, please let me know.
+Suggestions of new algorithms or datastructures I should add to this repo are also welcome. Please open an issue to discuss or reach out to me directly via email.
 
 
 ## License
